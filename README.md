@@ -1,3 +1,3 @@
 # TugasWGTIK
 
-Saya bisa basic video & photo editing dan basic coding.
+Saya bisa basic coding dan basic video/photo editing.
