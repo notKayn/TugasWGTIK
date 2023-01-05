@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1669566025 source:d:\[0] tugas kuliah\semester 3\struktur data\praktikum\tp modul 10\stack\stack.cpp
+	"stack.h"
+
+1669565912 d:\[0] tugas kuliah\semester 3\struktur data\praktikum\tp modul 10\stack\stack.h
+	<iostream>
+
+1669566017 source:d:\[0] tugas kuliah\semester 3\struktur data\praktikum\tp modul 10\stack\main.cpp
+	<iostream>
+	"stack.h"
+
